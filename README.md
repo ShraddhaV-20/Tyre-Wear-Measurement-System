@@ -16,5 +16,6 @@ Goals and objectives follow the **SMART** rule.
 4. **R**elevant : To deliver client requirements as per needs specified
 5. **T**ime-bound : To deliver client requirements as per needs specified in stipulated time slot
 
+![twms](https://user-images.githubusercontent.com/95766195/195145167-b364ac39-c6b5-4dac-94b7-c40a34a101d1.png)
 
 
