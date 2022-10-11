@@ -16,6 +16,21 @@ Goals and objectives follow the **SMART** rule.
 4. **R**elevant : To deliver client requirements as per needs specified
 5. **T**ime-bound : To deliver client requirements as per needs specified in stipulated time slot
 
-![twms](https://user-images.githubusercontent.com/95766195/195145167-b364ac39-c6b5-4dac-94b7-c40a34a101d1.png)
+![twms_1](https://user-images.githubusercontent.com/95766195/195146244-a2b7c5f1-f164-4807-88c2-2a130edcec28.PNG)
+
+### Graphical User Interface :
+The frontend of the GUI is created using the PyQt5 designer. GUI is designed to complete the 
+further processing to measure tyre wear. Readings are collected from the Arduino Code into a 
+CSV File using a library ArdoSpread Sheet. The CSV file is used to tabulate and display 
+readings, plot and save a copy of the graph, convert the CSV file into a JSON File, and finally, 
+push this JSON file to the client API.
+Details like, Date, Tyre specification, and Tyre ID and entered by the user.
+Buttons description: 
+1. Generate Values: This button reads data from the files, analyses the laser readings from tyre
+depth, and finally generates a tabular column, followed by a graph plot.
+2. Conversion: This button converts the CSV file into JSON file
+3. Push to server: This button collects the recent JSON file and pushes it to the client API server
+
+
 
 
