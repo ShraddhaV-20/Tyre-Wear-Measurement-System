@@ -31,6 +31,7 @@ depth, and finally generates a tabular column, followed by a graph plot.
 2. Conversion: This button converts the CSV file into JSON file
 3. Push to server: This button collects the recent JSON file and pushes it to the client API server
 
+![GUI](https://user-images.githubusercontent.com/95766195/195147448-1becdc8c-63bf-430a-8f0e-4e3f4bcea0c6.PNG)
 
 
 
